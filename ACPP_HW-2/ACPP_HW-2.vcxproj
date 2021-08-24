@@ -141,6 +141,12 @@
   <ItemGroup>
     <ClCompile Include="ACPP_HW-2.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CountVowels.h" />
+    <ClInclude Include="SortPointers.h" />
+    <ClInclude Include="Swap.h" />
+    <ClInclude Include="Timer.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
